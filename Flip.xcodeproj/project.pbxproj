@@ -18,7 +18,7 @@
 		EF314B09258316A6009538E6 /* Board.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF314B08258316A6009538E6 /* Board.swift */; };
 		EF314B0C25831887009538E6 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF314B0B25831887009538E6 /* Player.swift */; };
 		EF314B0F25831939009538E6 /* Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF314B0E25831939009538E6 /* Move.swift */; };
-		EFF829142585915400A7E7C9 /* 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = EFF829132585915400A7E7C9 /* 1.PNG */; };
+		EFD94BD725859AEF00AEABD9 /* 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = EFD94BD625859AEF00AEABD9 /* 1.PNG */; };
 		EFF829172585916000A7E7C9 /* 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = EFF829162585916000A7E7C9 /* 2.PNG */; };
 		EFF8291A2585916700A7E7C9 /* 3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = EFF829192585916700A7E7C9 /* 3.PNG */; };
 		EFF8291D2585916D00A7E7C9 /* 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = EFF8291C2585916D00A7E7C9 /* 4.PNG */; };
@@ -38,8 +38,8 @@
 		EF314B08258316A6009538E6 /* Board.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Board.swift; sourceTree = "<group>"; };
 		EF314B0B25831887009538E6 /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 		EF314B0E25831939009538E6 /* Move.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Move.swift; sourceTree = "<group>"; };
+		EFD94BD625859AEF00AEABD9 /* 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.PNG; sourceTree = "<group>"; };
 		EFF8291025858D6A00A7E7C9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		EFF829132585915400A7E7C9 /* 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = 1.PNG; path = ../../../../../../../../Desktop/1.PNG; sourceTree = "<group>"; };
 		EFF829162585916000A7E7C9 /* 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.PNG; sourceTree = "<group>"; };
 		EFF829192585916700A7E7C9 /* 3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.PNG; sourceTree = "<group>"; };
 		EFF8291C2585916D00A7E7C9 /* 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.PNG; sourceTree = "<group>"; };
@@ -59,6 +59,8 @@
 		EF314ADC25830E9D009538E6 = {
 			isa = PBXGroup;
 			children = (
+				EFF8291025858D6A00A7E7C9 /* README.md */,
+				EFF829122585914600A7E7C9 /* screenshots */,
 				EF314AE725830E9D009538E6 /* Flip */,
 				EF314AE625830E9D009538E6 /* Products */,
 			);
@@ -78,8 +80,6 @@
 				EF314AE825830E9D009538E6 /* AppDelegate.swift */,
 				EF314AEA25830E9D009538E6 /* GameScene.sks */,
 				EF314AEE25830E9D009538E6 /* GameScene.swift */,
-				EFF8291025858D6A00A7E7C9 /* README.md */,
-				EFF829122585914600A7E7C9 /* screenshots */,
 				EF314B0B25831887009538E6 /* Player.swift */,
 				EF314B0E25831939009538E6 /* Move.swift */,
 				EF314B08258316A6009538E6 /* Board.swift */,
@@ -96,7 +96,7 @@
 		EFF829122585914600A7E7C9 /* screenshots */ = {
 			isa = PBXGroup;
 			children = (
-				EFF829132585915400A7E7C9 /* 1.PNG */,
+				EFD94BD625859AEF00AEABD9 /* 1.PNG */,
 				EFF829162585916000A7E7C9 /* 2.PNG */,
 				EFF829192585916700A7E7C9 /* 3.PNG */,
 				EFF8291C2585916D00A7E7C9 /* 4.PNG */,
@@ -163,7 +163,7 @@
 			files = (
 				EFF829172585916000A7E7C9 /* 2.PNG in Resources */,
 				EF314AF425830E9D009538E6 /* Main.storyboard in Resources */,
-				EFF829142585915400A7E7C9 /* 1.PNG in Resources */,
+				EFD94BD725859AEF00AEABD9 /* 1.PNG in Resources */,
 				EFF8291A2585916700A7E7C9 /* 3.PNG in Resources */,
 				EFF8291D2585916D00A7E7C9 /* 4.PNG in Resources */,
 				EF314AEB25830E9D009538E6 /* GameScene.sks in Resources */,
