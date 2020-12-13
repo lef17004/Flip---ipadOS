@@ -7,10 +7,10 @@ This is the game from the 6th project in [Advanced iOS Volume One](https://www.h
 Open Xcode and then go to Source Control->Clone. Paste in the url to this reponsitory and the project with authmatically be imported into Xcode. Go to Signing and Capibilties and select a team and type a bundle id. After that, you should be able to compile and run the app on an iPad or iPad simulator. 
 
 ## Screenshots
-![Start of game.](/screenshots/1.png)
-![AI doing its turn.](/screenshots/2.png)
-![Picture of gameplay.](/screenshots/3.png)
-![Picture of gameplay.](/screenshots/4.png)
+![Start of game.](screenshots/1.PNG)
+![AI doing its turn.](screenshots/2.PNG)
+![Picture of gameplay.](screenshots/3.PNG)
+![Picture of gameplay.](screenshots/4.PNG)
 
 
 ## Helpful Sites
